@@ -1,0 +1,16 @@
+# Ignorar la carpeta de datos crudos y limpios (son archivos grandes)
+data/
+
+# Ignorar checkpoints de Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Ignorar archivos temporales de Excel
+~$*.xlsx
+*.tmp
+
+# Ignorar archivos de sistema de Mac
+.DS_Store
+
+# Opcional: ignorar el archivo de Power BI si pesa más de 100 MB (GitHub tiene límite)
+# reports/*.pbix
