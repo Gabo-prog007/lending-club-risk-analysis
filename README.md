@@ -101,6 +101,6 @@ I am actively seeking freelance opportunities in Data Analytics & Business Intel
 
 Workana Profile: [Link to your Workana profile]
 
-LinkedIn: [Link to your LinkedIn profile]
+LinkedIn: www.linkedin.com/in/gabriel-zapata7
 
-GitHub: [Link to this repository]
+GitHub: https://github.com/Gabo-prog007/lending-club-risk-analysis
