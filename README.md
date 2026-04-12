@@ -53,6 +53,29 @@ The interactive report consists of **5 pages**, designed for executive decision�
 
 > **Note:** The full interactive dashboard is available upon request. A live embedded version can be provided during interviews.
 
+### 📈 How I Can Add Value to Your Business
+If you are looking for a data analyst who can transform raw, messy data into clear, actionable insights, I can apply this same rigorous methodology to your company's data.
+
+What I deliver in a typical engagement:
+
+Clean, Analysis‑Ready Data: Automated Python scripts to handle missing values, outliers, and inconsistencies.
+
+SQL‑Backed Metrics Layer: A structured database with pre‑calculated KPIs for consistent reporting.
+
+Executive‑Grade Dashboards: Interactive Power BI or Tableau reports that tell a compelling story and enable self‑service analytics.
+
+Documented Recommendations: A written summary of key findings and data‑driven next steps.
+
+📞 Let's Connect
+I am actively seeking freelance opportunities in Data Analytics & Business Intelligence.
+
+Workana Profile: [Link to your Workana profile]
+
+LinkedIn: www.linkedin.com/in/gabriel-zapata7
+
+GitHub: https://github.com/Gabo-prog007/lending-club-risk-analysis
+
+
 ## 📂 Repository Structure
 ```plaintext
 lending-club-risk-analysis/
@@ -82,25 +105,3 @@ lending-club-risk-analysis/
     ├── 03_risk_analysis.png
     ├── 04_time_trends.png
     └── 05_loan_details.png
-
-📈 How I Can Add Value to Your Business
-If you are looking for a data analyst who can transform raw, messy data into clear, actionable insights, I can apply this same rigorous methodology to your company's data.
-
-What I deliver in a typical engagement:
-
-Clean, Analysis‑Ready Data: Automated Python scripts to handle missing values, outliers, and inconsistencies.
-
-SQL‑Backed Metrics Layer: A structured database with pre‑calculated KPIs for consistent reporting.
-
-Executive‑Grade Dashboards: Interactive Power BI or Tableau reports that tell a compelling story and enable self‑service analytics.
-
-Documented Recommendations: A written summary of key findings and data‑driven next steps.
-
-📞 Let's Connect
-I am actively seeking freelance opportunities in Data Analytics & Business Intelligence.
-
-Workana Profile: [Link to your Workana profile]
-
-LinkedIn: www.linkedin.com/in/gabriel-zapata7
-
-GitHub: https://github.com/Gabo-prog007/lending-club-risk-analysis
