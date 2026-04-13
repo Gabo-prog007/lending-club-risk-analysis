@@ -73,7 +73,7 @@ Workana Profile: [Link to your Workana profile]
 
 LinkedIn: www.linkedin.com/in/gabriel-zapata7
 
-GitHub: https://github.com/Gabo-prog007/lending-club-risk-analysis
+GitHub: https://github.com/Gabo-prog007
 
 
 ## 📂 Repository Structure
